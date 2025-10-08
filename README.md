@@ -1,4 +1,4 @@
-这是一个用Verilog语言实现的密码锁功能，使用Vivado进行编译与调试。
+这是一个用Verilog语言实现的密码锁功能，使用Vivado进行编译与调试，板子型号为Nexys 4 DDR FPGA Board。
 
 具体描述如下：
 这是一个密码锁，平时处于等待状态。
