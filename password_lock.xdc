@@ -6,7 +6,7 @@ set_property IOSTANDARD LVCMOS33 [get_ports clk]
 set_property PACKAGE_PIN C12 [get_ports rstn]
 set_property IOSTANDARD LVCMOS33 [get_ports rstn]
 
-## Switches (只用 SW0-SW3 输入数字)
+## Switches (鍙敤 SW0-SW3 杈撳叆鏁板瓧)
 set_property PACKAGE_PIN J15 [get_ports {sw[0]}]
 set_property PACKAGE_PIN L16 [get_ports {sw[1]}]
 set_property PACKAGE_PIN M13 [get_ports {sw[2]}]
@@ -110,3 +110,4 @@ set_property PACKAGE_PIN M17 [get_ports back_btn]
 set_property PACKAGE_PIN N17 [get_ports confirm_btn]
 set_property PACKAGE_PIN P18 [get_ports input_btn]
 set_property PACKAGE_PIN P17 [get_ports change_btn]
+
